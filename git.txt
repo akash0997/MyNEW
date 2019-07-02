@@ -2,4 +2,5 @@ git add
 git clone
 git commit
 git config
-
+git pull
+git push
